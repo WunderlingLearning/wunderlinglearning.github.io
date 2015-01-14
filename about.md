@@ -3,9 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h3>Executive Director, Ruthie Wunderling</h3>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p>Founder of the Wunderling Learning Center</p>
+<p>Taught for over 15 years</p>
+<p>Began tutoring individuals in 1997</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<ul>
+<li>SLINGERLAND CERTIFIED 1997</li>
+<li>MULTISENSORY SPECIALIST CERTIFICATION 1997</li>
+<li>SPECIAL EDUCATION TEACHER</li>
+<li>LEARNING SPECIALIST - Schools Attuned Trained (Mel Levine - All Kinds of Minds)</li>
+<li>MAKING MATH REAL - multisensory math trained</li>
+<li>PACE CERTIFICATION</li>
+<li>EDUTHERAPUTICS - dyslexia remedial specialist in CA</li>
+<li>BRAINWARE SAFARI CERTIFIED</li>
+<li>CAPTAIN'S LOG & SOUND SMART CERTIFICATION - Memory and Attention Training</li>
+<li>SAMONAS SOUND THERAPY CERTIFICATION</li>
+<li>RAVE-O CERTIFICATION 2010</li>
+</ul>
