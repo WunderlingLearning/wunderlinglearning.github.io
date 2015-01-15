@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about
+  excerpt:
+  image:
+
+- title: Method
+  url: /method
+  excerpt:
+  image:
+
+- title: Contact
+  url: /contact
+  excerpt:
+  image:
+
+- title: Appointment
+  url: /appointment
+  excerpt:
+  image:
