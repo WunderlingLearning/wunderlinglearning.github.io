@@ -389,6 +389,18 @@
 		}
 	}
 }
+.wide-tile {
+	@extend .tile;
+	@include media($small) {
+		@include span-columns(6);
+		@include omega(2n);
+	}
+	@include media($medium) {
+		@include span-columns(6);
+		@include omega(4n);
+	}
+}
+
 // footnotes
 .footnotes {
 	font-family: $alt-font;
